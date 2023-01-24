@@ -15,5 +15,5 @@ These are my dotfiles
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+- [dwm](https://github.com/ElonMuskRat420xx/dwm) (window manager)
+- [st](https://github.com/ElonMuskRat420xx/st) (terminal emulator)
